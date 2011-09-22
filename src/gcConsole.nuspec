@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <id>gcConsole</id>
+    <version>1.0.1</version>
+    <authors>Jeremiah Redekop, Ryan D Hatch</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library to wrap NDesk.Options, and make the API easier to use.</description>
+    <dependencies>
+      <dependency id="NDesk.Options" version="0.2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="gcConsole\bin\Release\gcConsole.dll" target="lib\net40\gcConsole.dll" />   
+  </files>
+</package>
