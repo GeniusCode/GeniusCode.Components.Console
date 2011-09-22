@@ -11,7 +11,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="gcConsole\bin\Release\gcConsole.dll" target="lib\net40\gcConsole.dll" />   
-	<file src="gcConsole\bin\Release\gcConsole.dll" target="lib\net35\gcConsole.dll" />   
+    <file src="src\gcConsole\bin\Release\gcConsole.dll" target="lib\net40\gcConsole.dll" />   
+	<file src="src\gcConsole\bin\Release\gcConsole.dll" target="lib\net35\gcConsole.dll" />   
   </files>
 </package>
